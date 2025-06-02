@@ -60,6 +60,84 @@ print('d:',d)
 
 ## Result
 Thus, the program as been excuted successfully.
+# Datatypes-Character Literal in Python
+
+## 🎯 Aim
+To write a Python program that prints the characters `'T'` and `'a'` using character literals.
+
+## 🧠 Algorithm
+1. Print the character `'T'`.
+2. Print the character `'a'`.
+
+## 🧾 Program
+```
+v='T'
+b='a'
+print(v)
+print(b)
+```
+
+## Output
+
+![Screenshot 2025-06-02 143609](https://github.com/user-attachments/assets/6a0265b6-b442-45e5-94ce-91285d46a74d)
+
+
+## Result
+
+Thus, the program is executed sucessfully.
+
+# 🧮 Datatypes-Complex Number Creation in Python
+
+## 🎯 Aim
+To write a Python program that reads two integers, creates a complex number using them, and then prints the complex number along with its real and imaginary parts.
+
+## 🧠 Algorithm
+1. Read an integer input from the user and assign it to the variable `a` (real part).
+2. Read another integer input from the user and assign it to the variable `b` (imaginary part).
+3. Create a complex number `x` using the `complex(a, b)` function.
+4. Print the complex number `x`.
+5. Print the real part of `x` using `x.real`.
+6. Print the imaginary part of `x` using `x.imag`.
+
+## 💻 Program
+```
+x=int(input(''))
+y=int(input(''))
+x=complex(x,y)
+print(x)
+print(x.real)
+print(x.imag)
+```
+
+## Output
+![image](https://github.com/user-attachments/assets/a2512f0f-9a90-4fcf-9f56-91efd8006d94)
+
+## Result
+
+Thus, the program as been executed successfully.
+
+# Datatypes-Read and Print a String in Python
+
+## 🎯 Aim
+To write a Python program to read a string from the user and then print it.
+
+## 🧠 Algorithm
+1. Assign a variable named `men_stepped_on_the_moon`.
+2. Use `input()` to read a string from the user and store it in the variable.
+3. Print the value stored in the variable.
+
+## 🧾 Program
+```
+men_stepped_on_the_moon=input()
+print(men_stepped_on_the_moon)
+```
+
+## Output
+![image](https://github.com/user-attachments/assets/66aef0c9-542c-4354-b71a-bfd20e7785f9)
+
+## Result
+Thus the program is executed successfully
+
 
 
 ## Result
