@@ -23,10 +23,13 @@ else:
 ## Output
 
 ![image](https://github.com/user-attachments/assets/d6f11a51-536f-497b-bbff-a3b580c0f880)
+## Result
+
+Thus the program has been successfully executed
 
 
 
-# Ex 1:Datatypes-Boolean Expression Evaluation in Python
+# Datatypes-Boolean Expression Evaluation in Python
 
 ## 🎯 Aim
 To write a Python program that evaluates and prints the results of boolean and arithmetic expressions involving `True` and `False`.
@@ -140,7 +143,5 @@ Thus the program is executed successfully
 
 
 
-## Result
 
-Thus the program has been successfully executed
 
